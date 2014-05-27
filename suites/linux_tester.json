@@ -1,0 +1,6 @@
+{
+  "description": "Run rightlink linux testers",
+  "server_templates": ["linux_tester"],
+  "tests": ["linux_tester.rb"],
+  "variables": { }
+}
